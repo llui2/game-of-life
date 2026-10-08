@@ -1,3 +1,3 @@
-# Game of life
+# Game of Life
 
-Game of life of John Horton using pygame
+Conway's Game of Life, devised by John Horton Conway, implemented using Pygame.
